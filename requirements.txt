@@ -1,0 +1,2 @@
+bcrypt==5.0.0          # hash de contraseñas
+cryptography==50.0.1   # cifrado Fernet de datos personales
